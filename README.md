@@ -1,6 +1,6 @@
 # AI Canvas
 
-A Full Stack MERN AI Image Generation App, inspired by DALL-E, that allows users to generate unique images with the help of OpenAI's technology. The app is currently deployed on (here)[https://aicanvas.aminahmadi.me/]
+A Full Stack MERN AI Image Generation App, inspired by DALL-E, that allows users to generate unique images with the help of OpenAI's technology. The app is currently deployed on [here](https://aicanvas.aminahmadi.me/)
 
 ## Technologies Used
 
